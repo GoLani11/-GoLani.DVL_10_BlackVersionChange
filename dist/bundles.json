@@ -1,0 +1,34 @@
+{
+    "manifest": [
+        {
+			"_comment" : "dvl-10",
+            "key": "assets/content/weapons/dvl-10/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "dvl-10 barrels 500mm",
+            "key": "assets/content/items/mods/barrels/barrel_dvl-10_500mm.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "dvl-10 barrels 660mm",
+            "key": "assets/content/items/mods/barrels/barrel_dvl-10_m2_660mm_textures.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "dvl-10 핸드가드",
+            "key": "assets/content/items/mods/handguards/handguard_dvl-10_lobaev_dvl-10_m2_std.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "dvl-10 머즐브레이크",
+            "key": "assets/content/items/mods/muzzle/muzzle_dvl-10_lobaev_dvl-10_std_308.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "dvl-10 머즐브레이크 m2",
+            "key": "assets/content/items/mods/muzzle/muzzle_dvl-10_lobaev_dvl-10_m2_std_308.bundle",
+            "dependencyKeys": []
+        }
+    ]
+}
